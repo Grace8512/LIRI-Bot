@@ -4,8 +4,8 @@
 
 1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
 
-    When the user initially enters a command (node argv[2], argv[3]), the program runs through the terminal. 
-    Match function is executed by receiving argv and matches the command and function for each command.
+    When the user initially enters a command (node argv[2], argv[3]), the program runs through the terminal.     
+    Match function is executed by receiving argv and matches the command and function for each command.  
     The command is executed only when the command and keyword are called together.
 
 2. Give a high-level overview of how the app is organized
